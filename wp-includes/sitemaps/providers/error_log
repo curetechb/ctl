@@ -1,0 +1,12 @@
+[28-Jun-2024 16:16:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/curetechbd/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/curetechbd/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[28-Jun-2024 16:16:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/curetechbd/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/curetechbd/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[28-Jun-2024 16:16:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/curetechbd/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/curetechbd/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17

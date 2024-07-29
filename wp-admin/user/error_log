@@ -1,0 +1,4 @@
+[30-Nov-2022 22:11:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home3/curetechbd/public_html/wp-admin/user/menu.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/curetechbd/public_html/wp-admin/user/menu.php on line 10

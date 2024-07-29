@@ -1,0 +1,32 @@
+[29-Dec-2023 17:54:28 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/curetechbd/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/curetechbd/public_html/wp-settings.php on line 33
+[12-Jan-2024 20:51:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/curetechbd/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/curetechbd/public_html/wp-settings.php on line 33
+[20-Jan-2024 21:16:02 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/curetechbd/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/curetechbd/public_html/wp-settings.php on line 33
+[27-Jan-2024 15:50:48 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/curetechbd/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/curetechbd/public_html/wp-settings.php on line 33
+[01-Feb-2024 21:12:47 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/curetechbd/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/curetechbd/public_html/wp-settings.php on line 33
+[07-Feb-2024 21:04:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/curetechbd/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/curetechbd/public_html/wp-settings.php on line 33
+[25-Jun-2024 21:20:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/curetechbd/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/curetechbd/public_html/wp-settings.php on line 33
+[11-Jul-2024 01:41:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/curetechbd/public_html/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/curetechbd/public_html/wp-settings.php on line 33

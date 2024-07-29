@@ -1,0 +1,16 @@
+[07-Feb-2024 21:06:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/curetechbd/public_html/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/curetechbd/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[17-May-2024 03:14:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/curetechbd/public_html/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/curetechbd/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[30-May-2024 09:16:00 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/curetechbd/public_html/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/curetechbd/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[25-Jun-2024 21:22:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/curetechbd/public_html/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/curetechbd/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17

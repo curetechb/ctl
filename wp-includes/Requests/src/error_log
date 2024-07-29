@@ -1,0 +1,4 @@
+[28-Jun-2024 16:11:56 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\HookManager" not found in /home/curetechbd/public_html/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/curetechbd/public_html/wp-includes/Requests/src/Hooks.php on line 19

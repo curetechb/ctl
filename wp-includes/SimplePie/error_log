@@ -1,0 +1,16 @@
+[29-Dec-2023 17:59:33 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/curetechbd/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/curetechbd/public_html/wp-includes/SimplePie/Core.php on line 53
+[20-Jan-2024 21:18:18 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/curetechbd/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/curetechbd/public_html/wp-includes/SimplePie/Core.php on line 53
+[07-Feb-2024 21:06:13 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/curetechbd/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/curetechbd/public_html/wp-includes/SimplePie/Core.php on line 53
+[25-Jun-2024 21:23:18 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/curetechbd/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/curetechbd/public_html/wp-includes/SimplePie/Core.php on line 53

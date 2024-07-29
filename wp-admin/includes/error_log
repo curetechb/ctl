@@ -1,0 +1,12 @@
+[19-Feb-2024 03:47:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/curetechbd/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/curetechbd/public_html/wp-admin/includes/file.php on line 16
+[28-Feb-2024 19:31:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/curetechbd/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/curetechbd/public_html/wp-admin/includes/file.php on line 16
+[25-Jun-2024 13:09:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/curetechbd/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/curetechbd/public_html/wp-admin/includes/file.php on line 16
