@@ -32,10 +32,10 @@
   <div class="topbar">
       <div class="container">
           <ul class="social">
-            <!-- <li><a href="http://twitter.com/curetechbd" class="twitter" title="Contact Twitter" alt="twitter" target="_blank"><i class="fa fa-twitter"></i></a></li> -->
-            <li><a href="https://web.facebook.com/curetechbd.ltd" class="facebook" title="Contact Facebook" alt="facebook" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/facebook.png" alt="image" style="width:18px; height:18px"></a></li>
-            <!-- <li><a href="https://www.youtube.com/channel/UCREnTDQKSzU0V8JGMiLYvqQ" class="youtube" title="Contact YouTube" alt="youtube" target="_blank"><i class="fa fa-youtube"></i></a></li>
-            <li><a href="https://www.linkedin.com/company/curetechom/" class="linkedin" title="Contact LinkedIn" alt="linkedin" target="_blank"><i class="fa fa-linkedin"></i></a></li> -->
+            <li><a href="https://x.com/CureTechbd2024" class="twitter" title="Contact Twitter" alt="twitter" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/twitter.png" alt="image" style="width:18px; height:18px"></a></li>
+            <li><a href="https://web.facebook.com/curetechbd.ltd" class="facebook" title="Contact Facebook" alt="facebook" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/facebook.png" alt="image" style="width:20px; height:20px"></a></li>
+            <!-- <li><a href="https://www.youtube.com/channel/UCREnTDQKSzU0V8JGMiLYvqQ" class="youtube" title="Contact YouTube" alt="youtube" target="_blank"><i class="fa fa-youtube"></i></a></li> -->
+            <li><a href="https://www.linkedin.com/company/curetechbd/?viewAsMember=true" class="linkedin" title="Contact LinkedIn" alt="linkedin" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/linkedin.png" alt="image" style="width:20px; height:20px"></a></li>
 
       </ul>
           <ul class="top-menu">
@@ -55,7 +55,7 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a href="<?php echo esc_url( home_url( '/' ) ); ?>" class="navbar-brand"><img src="<?php echo get_template_directory_uri(); ?>/img/ctl_logo.png" alt="<?php bloginfo('name'); ?>" title="<?php bloginfo('description'); ?>"></a>
+        <a href="<?php echo esc_url( home_url( '/' ) ); ?>" class="navbar-brand"><img src="<?php echo get_template_directory_uri(); ?>/img/logo.png" alt="<?php bloginfo('name'); ?>" title="<?php bloginfo('description'); ?>"></a>
       </div>
 
         <?php

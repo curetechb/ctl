@@ -45,10 +45,10 @@
 						<section class="widget widget_text">
 							<h2 class="widget-title">Social Media</h2>
 							<ul class="social">
-								<!-- <li><a href="https://twitter.com/curetechbd" class="twitter" title="Contact Twitter" alt="twitter" target="_blank"><i class="fa-2x fa fa-twitter"></i></a></li> -->
+								<li><a href="https://twitter.com/curetechbd" class="twitter" title="Contact Twitter" alt="twitter" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/twitter.png" alt="image" style="width:45px; height:45px"></a></li>
 								<li><a href="https://web.facebook.com/curetechbd.ltd" class="facebook" title="Contact Facebook" alt="facebook" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/facebook.png" alt="image" style="width:50px; height:50px"></a></li>
-								<!-- <li><a href="https://www.youtube.com/channel/UCREnTDQKSzU0V8JGMiLYvqQ" class="youtube" title="Contact YouTube" alt="youtube" target="_blank"><i class="fa-2x fa fa-youtube"></i></a></li>
-								<li><a href="https://www.linkedin.com/company/curetechbd/" class="linkedin" title="Contact LinkedIn" alt="linkedin" target="_blank"><i class="fa-2x fa fa-linkedin"></i></a></li> -->
+								<!-- <li><a href="https://www.youtube.com/channel/UCREnTDQKSzU0V8JGMiLYvqQ" class="youtube" title="Contact YouTube" alt="youtube" target="_blank"><i class="fa-2x fa fa-youtube"></i></a></li> -->
+								<li><a href="https://www.linkedin.com/company/curetechbd/" class="linkedin" title="Contact LinkedIn" alt="linkedin" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/linkedin.png" alt="image" style="width:50px; height:50px"></a></li>
 							</ul>
 						</section>
 					</div>
