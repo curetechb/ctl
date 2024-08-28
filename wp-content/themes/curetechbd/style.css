@@ -12906,6 +12906,19 @@ ul {
   margin: 0;
   padding: 0;
 }
+@media only screen and (max-width: 600px) {
+  .social {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+  }
+}
+
+.kiwi-logo-carousel li:nth-child(8) img {
+  max-width: 90px !important;
+}
+
 .social li {
   display: inline-block;
 }

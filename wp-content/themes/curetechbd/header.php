@@ -24,6 +24,11 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
   <?php wp_head(); ?>
+  <!-- <style>
+    .kiwi-logo-carousel li:nth-child(8) img {
+   width: 90px !important;
+}
+  </style> -->
 </head>
 
 <body <?php body_class(); ?>>
