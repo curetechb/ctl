@@ -55,6 +55,10 @@
 				</div>
 			</div>
 		</div>
+		<div class="payment">
+		  <img class="payment_desktop" src="<?php echo get_template_directory_uri(); ?>/img/payment.png" alt="<?php bloginfo('name'); ?>" title="<?php bloginfo('description'); ?>"><br><br>
+		  <img class="payment_mobile" src="<?php echo get_template_directory_uri(); ?>/img/payment_mobile.png" alt="<?php bloginfo('name'); ?>" title="<?php bloginfo('description'); ?>"><br><br>
+		</div>
 		<!-- CureTech Footer Copyrights -->
 		<div class="footer-copy">
 			<div class="container text-center">

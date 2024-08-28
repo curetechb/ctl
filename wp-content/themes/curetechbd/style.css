@@ -14641,3 +14641,23 @@ footer.e404 {
     top: -10px;
   }
 }
+
+
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (max-width : 600px) {
+  .payment_desktop{
+    display: none;
+  }
+}
+
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 601px) {
+  .payment_mobile{
+    display: none;
+  }
+  .payment_desktop{
+    margin-top: 10px;
+  }
+}
