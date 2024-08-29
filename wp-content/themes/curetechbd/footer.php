@@ -32,7 +32,7 @@
 							<h2 class="widget-title">Quick Links</h2>
 							<?php
 							$footer_menu = array(
-								'theme_location'  => 'primary',
+								'theme_location'  => 'footer',
 								'container'       => 'div',
 								'container_class' => 'footer-menu',
 								'items_wrap'           => '<ul class="%2$s">%3$s</ul>',
