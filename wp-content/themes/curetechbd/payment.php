@@ -144,7 +144,12 @@ get_header(); ?>
                                 <div class="col-md-6 mx-auto" style="margin: 50px 0;">
                                     <div style="border: 1px solid #efefef; border-radius: 24px; padding: 20px;">
                                         <img src="<?php echo get_template_directory_uri(); ?>/img/sslcommerz.png" alt="" width="100" class="mx-auto">
-                                        <form action="" method="post" style="overflow:hidden;">
+                                        <form action="" method="post" style="overflow:hidden;" id="payment-form">
+                                            <div class="my-3">
+                                                <label for="agreement">
+                                                    <input type="checkbox" id="agreement" required> I agree to the <a class="text-primary" href="/terms-and-conditions">Terms & Conditions</a>, <a class="text-primary" href="/privacy-policy">Privacy Policy</a>, and <a class="text-primary" href="/return-and-refund-policy">Return Refund Policy</a>
+                                                </label>
+                                            </div>
                                             <button type="submit" name="make_payment" value="make_payment" class="btn btn-primary" style="border: 0;margin:10px;width:100%;">Make Payment</button>
                                         </form>
                                     </div>
