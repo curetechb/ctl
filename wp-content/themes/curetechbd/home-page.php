@@ -43,7 +43,7 @@ get_header(); ?>
 				<div class="col">
 					<h3 class="head-title">About Us</h3>
 					<p><strong>CureTech</strong> operates in IT field including solution, architecture, digital strategy, software, hardware, security & data protection, managed services and support.</p>
-					<p>Established in 2008, <strong>CureTech</strong> operates in Australia, USA and Bangladesh. We have delivered nearly 100 solutions of small to large size to 32 companies globally. We work through agile methodologies to deliver safe solution in quickest time.</p>
+					<p>Established in 2008, <strong>CureTech</strong> operates in Australia, USA and Bangladesh.Our <strong>Trade License Number</strong>: TRAD/DNCC/009825/2022. We have delivered nearly 100 solutions of small to large size to 32 companies globally. We work through agile methodologies to deliver safe solution in quickest time.</p>
 					<p>Our work is always KPI (Key Performance Indicator) driven – ROI, Revenue, Cost saving, efficiency. If our solution meets the KPI, we bill to customers. It is our promise. Our managed service and support services are also driven by SLA (Service Level Agreement).</p>
 					<p>We have 28 in-house staff including managers, technical experts, developers, testers and analysts. We also have off-shore teams in India, Australia and USA.</p>
 				</div>
