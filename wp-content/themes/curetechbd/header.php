@@ -9,12 +9,14 @@
 ?><!DOCTYPE html>
 <html <?php language_attributes(); ?>>
 <head>
-    <meta charset="<?php bloginfo( 'charset' ); ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
     <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
     
+     
     <!--CureTech Favicon-->
     <link rel="apple-touch-icon" sizes="120x120" href="<?php echo get_template_directory_uri(); ?>/assets/img/icons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="<?php echo get_template_directory_uri(); ?>/assets/img/icons/favicon-32x32.png">
@@ -41,7 +43,6 @@
             <li><a href="https://web.facebook.com/curetechbd.ltd" class="facebook" title="Contact Facebook" alt="facebook" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/facebook.png" alt="image" style="width:20px; height:20px"></a></li>
             <!-- <li><a href="https://www.youtube.com/channel/UCREnTDQKSzU0V8JGMiLYvqQ" class="youtube" title="Contact YouTube" alt="youtube" target="_blank"><i class="fa fa-youtube"></i></a></li> -->
             <li><a href="https://www.linkedin.com/company/curetechbd/?viewAsMember=true" class="linkedin" title="Contact LinkedIn" alt="linkedin" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/linkedin.png" alt="image" style="width:20px; height:20px"></a></li>
-
       </ul>
           <ul class="top-menu">
               <li><a href="mailto:info@curetechbd.com"><i class="fa fa-envelope-o"></i>info@curetechbd.com</a></li>

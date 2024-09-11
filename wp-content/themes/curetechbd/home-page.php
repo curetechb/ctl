@@ -1,4 +1,5 @@
 <?php
+
 /**
  Template Name: Home Page
  *
@@ -13,22 +14,30 @@
 
 get_header(); ?>
 
-	<!-- Begin Slider-->
-	<?php echo do_shortcode('[rlslider id=4525]'); ?>
-
+<!-- Begin Slider-->
+	<section>
+		<div class="autoplay mb-0">
+			<div>
+			    <img src="<?php echo get_template_directory_uri(); ?>/img/slider_1.jpg" alt="<?php bloginfo('name'); ?>" title="<?php bloginfo('description'); ?>">
+			</div>
+			<div>
+			   <img src="<?php echo get_template_directory_uri(); ?>/img/slider_2.jpg" alt="<?php bloginfo('name'); ?>" title="<?php bloginfo('description'); ?>">
+			</div>
+		</div>
+	</section>
 	<!-- Begin Content-->
 	<div class="wrapper">
 		<article class="container">
 			<div class="row">
-				<?php if ( have_posts() ) : ?>
-					<?php while ( have_posts() ) : the_post(); ?>    
-                    <?php the_content(); ?>
-                    <?php endwhile; ?>
-                <?php endif; ?>
-            </div>
-        </article>
+				<?php if (have_posts()) : ?>
+				<?php while (have_posts()) : the_post(); ?>
+				<?php the_content(); ?>
+				<?php endwhile; ?>
+				<?php endif; ?>
+			</div>
+		</article>
 		<!--end Features-->
-		
+
 		<section class="clients">
 			<div class="container">
 				<div class="row">
@@ -59,4 +68,4 @@ get_header(); ?>
 		</section>
 	</div>
 
-<?php get_footer(); ?>
+	<?php get_footer(); ?>
