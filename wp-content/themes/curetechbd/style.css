@@ -219,6 +219,17 @@ td,
 th {
   padding: 0;
 }
+
+.ctl_team img{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+
+
+.member{
+  margin-bottom: 40px;
+}
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 @media print {
   *,
