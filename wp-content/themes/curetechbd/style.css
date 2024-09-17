@@ -226,9 +226,17 @@ th {
   height: 200px;
 }
 
-
 .member{
   margin-bottom: 40px;
+}
+
+.member-info{
+  text-align: center;
+}
+
+.all_members img{
+  height: 180px;
+  width: 180px;
 }
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 @media print {

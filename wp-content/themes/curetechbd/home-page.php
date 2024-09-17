@@ -56,7 +56,6 @@ get_header(); ?>
 				<p>Our work is always KPI (Key Performance Indicator) driven – ROI, Revenue, Cost saving, efficiency. If our solution meets the KPI, we bill to customers. It is our promise. Our managed service and support services are also driven by SLA (Service Level Agreement).</p>
 				<p>We have 28 in-house staff including managers, technical experts, developers, testers and analysts. We also have off-shore teams in India, Australia and USA.</p>
 				<p><strong>Jalal Ahmed Mirza, Founder</strong></p>
-				<!-- <p><strong>Founder</strong></p> -->
 				<p>Master in IT (Australia, 1998), Jalal worked in Australia, USA and UK before founding CureTech Ltd. in 2008. His other projects are tajabajar.com, ezkash.com, bachao.com and farianur.com. He likes to work P2P model and innovative digital businesses.</p>
 				<p><strong>Sakeeb Khan, Manager, Projects</strong></p>
 				<p>Bachelor of Science in Marketing (UK, 2009), Sakeeb had a long career in Tesco, the top retail chain in UK. Sakeeb worked as a marketing manager, project manager, retail manager in UK. He also served as a B2B manager at a large RMG group.</p>
@@ -76,7 +75,7 @@ get_header(); ?>
 	<section class="ctl_team">
 		<div class="container">
 			<div class="row">
-				<div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4 member">
+				<div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4 member text-center">
 				<img src="<?php echo get_template_directory_uri(); ?>/img/jalal.png" alt="<?php bloginfo('name'); ?>" title="<?php bloginfo('description'); ?>">
 				
 					<div class="member-info">
@@ -84,36 +83,36 @@ get_header(); ?>
 						<span>Founder</span>
 					</div>
 				</div>
-				<div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4 member">
+				<div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4 member text-center">
 				<img src="<?php echo get_template_directory_uri(); ?>/img/sakeeb.jpg" alt="<?php bloginfo('name'); ?>" title="<?php bloginfo('description'); ?>">
 					<div class="member-info">
 						<h4>Sakeeb Khan<br></h4>
 						<span>Manager, Projects</span>
 					</div>
 				</div>
-				<div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4 member">
+				<div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4 member text-center">
 				<img src="<?php echo get_template_directory_uri(); ?>/img/faria.jpg" alt="<?php bloginfo('name'); ?>" title="<?php bloginfo('description'); ?>">
 					<div class="member-info">
 						<h4>Faria Islam</h4>
 						<span>HR Manager</span>
 					</div>
 				</div>
-				<div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4 member">
+				<div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4 member text-center">
 				<img src="<?php echo get_template_directory_uri(); ?>/img/rashad.jpg" alt="<?php bloginfo('name'); ?>" title="<?php bloginfo('description'); ?>">
 					<div class="member-info">
 						<h4>Md Rashadul Islam</h4>
 						<span>Manager, Digital Solution</span>
 					</div>
 				</div>
-				<div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4 member">
+				<div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4 member text-center">
 				<img src="<?php echo get_template_directory_uri(); ?>/img/parvej.jpg" alt="<?php bloginfo('name'); ?>" title="<?php bloginfo('description'); ?>">
 					<div class="member-info">
 						<h4>Monowar Perves</h4>
 						<span>Operation Manager (Taja Bajar)</span>
 					</div>
 				</div>
-				<div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4 member">
-				<img src="<?php echo get_template_directory_uri(); ?>/img/zaynal.png" alt="<?php bloginfo('name'); ?>" title="<?php bloginfo('description'); ?>">
+				<div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4 member text-center">
+				<img src="<?php echo get_template_directory_uri(); ?>/img/zaynal.jpg" alt="<?php bloginfo('name'); ?>" title="<?php bloginfo('description'); ?>">
 					<div class="member-info">
 						<h4>Mohammad Zaynal Abedin</h4>
 						<span>Accounts</span>
